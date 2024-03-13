@@ -1,3 +1,7 @@
+NAME: NIVETHA .K
+
+REG NO:212222230102
+
 # VALUE ITERATION ALGORITHM
 
 ## AIM
@@ -74,8 +78,14 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 ```
 
 ## OUTPUT:
-Mention the optimal policy, optimal value function , success rate for the optimal policy.
+
+![Screenshot 2024-03-13 144044](https://github.com/NivethaKumar30/rl-value-iteration/assets/119559844/d361c685-940e-4eae-a523-4cac583d589f)
+
+![Screenshot 2024-03-13 144053](https://github.com/NivethaKumar30/rl-value-iteration/assets/119559844/e60b2978-3df2-4b1b-8344-9dd07f7cd2f2)
+
+![Screenshot 2024-03-13 144058](https://github.com/NivethaKumar30/rl-value-iteration/assets/119559844/e9054a12-8e6f-47ed-bcc3-aabf4afa3c1c)
+
 
 ## RESULT:
 
-Write your result here
+Thus the python program to implement value iteration to find the optimal policy is completed successfully.
